@@ -5,14 +5,12 @@ navname: About
 
 # {{ site.serverName }}
 
-Moonrise is a simple, flexible template website for Minecraft servers.
-
-[GitHub](https://github.com/coffeebank/moonrise)
+We're a Non-P2W Minecraft Network with multiple servers! We currently have our Cobblemon & Survival servers.
 
 
 # Terms of Use
 
-Moonrise MC is free for use [under the MIT license](https://github.com/coffeebank/moonrise).
+This website is free for use [under the MIT license](https://github.com/coffeebank/moonrise).
 
 
 # Privacy Policy
