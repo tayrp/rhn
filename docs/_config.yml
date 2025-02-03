@@ -1,26 +1,26 @@
 # Set this website's info
 # Change "coffeebank" to your GitHub username
 # Change "moonrise" to your repository name
-url: "https://coffeebank.github.io"
-baseurl: "/moonrise"
+url: "https://tee.is-a.dev"
+baseurl: "/rhn"
 siteIcon: /media/android-chrome-192x192.png
-siteYear: 2020
+siteYear: 2025
 siteFooterlink: /about
 showinSearchEngines: true
 # googleAnalyticsID: (uncomment to use)
 
 
 # Set basic server info
-serverName: Moonrise MC
+serverName: Rose Haven Network
 serverDescription: A Minecraft server where we have lots of fun!
-serverIP: 31.41.59.26:5358
+serverIP: vsmp.ddns.net:35596
 useBedrockForOnlineStatus: false
 
 
 # Discord information
-discordInvite: https://discord.gg/minecraft
-discordServerID: 299881420891881473
-discordChannelID: 450428756855750666
+discordInvite: https://discord.gg/5CA8sewarU
+discordServerID: 1205501876058062848
+discordChannelID: 1324997273008214058
 
 
 # # Navbar Links at the top of the page (uncomment "siteNav" to use)
