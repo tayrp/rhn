@@ -3,7 +3,7 @@
 # Change "moonrise" to your repository name
 url: "https://tee.is-a.dev"
 baseurl: "/rhn"
-siteIcon: https://backend.cobblemon.com/uploads/Rose_Haven_logo_18cbd41cce.webp
+siteIcon: /media/rhn_logo.webp
 siteYear: 2025
 siteFooterlink: /about
 showinSearchEngines: true
